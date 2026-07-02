@@ -194,15 +194,6 @@ Response
 - Result Merge
 - Travel Planning Agent
 
-## 🚀 Future
-
-- RAG
-- Gmail Integration
-- Google Calendar
-- AQI
-- Earthquake API
-- Streamlit Web UI
-
 ---
 
 # License
